@@ -1,4 +1,4 @@
-# BitDevs LA
+# BitDevs Pittsburgh
 
 Simple Zola site for hosting all of the links from meetups past and future.
 
@@ -35,5 +35,5 @@ All site configurations are contained in `config.toml`.
 
 ## Attributions
 
-Thanks to [BitDevs NYC](https://github.com/BitDevsNYC/BitDevsNYC.github.io) for the
-Jekyll site that this site is based on.
+Thanks to [BitDevs LA](https://github.com/bitdevsla/bitdevsla.org) for the
+site that this site is based on.
