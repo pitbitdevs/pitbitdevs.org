@@ -31,7 +31,7 @@ The site will auto-generate the rest.
 
 ## Changing Site Data
 
-All site configurations are contained in `config.toml`.
+All site configurations are contained in `config.toml`. Use github Actions to deploy.
 
 ## Attributions
 
