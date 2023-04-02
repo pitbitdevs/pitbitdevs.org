@@ -9,9 +9,9 @@ and participating in the research and development of Bitcoin and related
 protocols. You can be well versed with or new to the topics, all are welcome. 
 Be advised: discussion will be technical.
 
-### Socratic Seminars or Discussions
+### Socratic Seminars or Meetups
 
-Our monthly Socratic Seminar events are formatted to foster debate, information
+Our periodic Socratic Seminar events are formatted to foster debate, information
 sharing and lively discussion. In the weeks preceding the event, discussion
 topics are collated by meetup members from a variety of sources: pull requests
 in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, LDK, etc.),
@@ -39,7 +39,7 @@ Special thanks to to our ongoing sponsor who's donations help pay for venue rent
 <br>
 
 <a href="https://sdgsystems.com/">
- <img src="/Voltage-Logo-Drk-RGB.svg" alt="SDG Logo" style="width:20%;height:20%;border:0;">
+ <img src="/SDG-Logo.svg" alt="SDG Logo" style="width:20%;height:20%;border:0;">
 </a>
  
 [SDG Systems](https://sdgsystems.com/) helps customers get the most from their data with solutions for Photo and Asset Management with Bitcoin Lightning solutions coming soon.
