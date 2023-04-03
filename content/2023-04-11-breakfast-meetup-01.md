@@ -12,7 +12,7 @@ youtube_id = ""
 
 ### Sponsor
 
-N/A
+SDG Systems
 
 ### Location
 Bartram House Bakery Cafe
@@ -24,5 +24,5 @@ There is on-site parking
 
 ### Details
 
-N/A
+The main purpose here is for meeting one another since this is our first meeting. We can also discuss where to start for our technical meetings.
 
