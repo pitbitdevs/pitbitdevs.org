@@ -24,5 +24,5 @@ There is on-site parking
 
 ### Details
 
-The main purpose here is for meeting one another since this is our first meeting. We can also discuss where to start for our technical meetings.
+The main purpose for this event is for meeting one another since this is our first meeting. We can also discuss where to start for our technical meetings.
 
