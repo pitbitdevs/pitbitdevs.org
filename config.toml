@@ -21,7 +21,7 @@ description = "BitDevs Pittsburgh is a community in the western PA area for thos
 # Put all your custom variables here
 
 github = "https://github.com/pitbitdevs/pitbitdevs.org"
-meetup = "https://www.meetup.com/bitdevs-pittsburgh-pitbitdevs-org-meetup-group/"
+meetup = "https://www.meetup.com/pitbitdevs"
 twitter = "https://www.twitter.com/pitbitdevs"
 videos = "https://www.youtube.com"
 podcasts = "https://www.podcasts.com"
