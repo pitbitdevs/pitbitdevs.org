@@ -1,8 +1,8 @@
 +++
-title = "Mining Discussion Panel"
+title = "Bitcoin Mining Discussion Panel"
 template = "post.html"
 [extra]
-meetup_id = "293194287"
+meetup_id = "295634769"
 youtube_id = ""
 +++
 
