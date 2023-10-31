@@ -15,7 +15,7 @@ generate_feed = true
 feed_filename = "rss.xml"
 
 title = "BitDevs Pittsburgh"
-description = "BitDevs Pittsburgh is a technology community in the western PA area for those interested in discussing and participating in the research and development of Bitcoin and related protocols. Our meetups combine education and social events to promote connections within the community."
+description = "BitDevs Pittsburgh is a technology community in the western PA area for those interested in discussing and participating in the research and development of Bitcoin and related protocols. Our meetups combine education and social events to promote learning and connections within the community."
 
 [extra]
 # Put all your custom variables here
