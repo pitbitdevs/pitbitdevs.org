@@ -1,8 +1,8 @@
 +++
-title = "Discuss Liquid BTC and the Aqua and Green Wallets"
+title = "Discuss Bitcoin business adoption"
 template = "post.html"
 [extra]
-meetup_id = "298514011"
+meetup_id = "301733272"
 youtube_id = ""
 +++
 
