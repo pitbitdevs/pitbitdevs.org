@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevs Pittsburgh</title>
+      <link>https://pitbitdevs.org</link>
+      <description>BitDevs Pittsburgh is a technology community in the western PA area for those interested in discussing and participating in the research and development of Bitcoin and related protocols. Our meetups combine education and social events to promote learning and connections within the community.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://pitbitdevs.org/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Discuss Bitcoin business adoption</title>
+          <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/softledger-chat-01/</link>
+          <guid>https://pitbitdevs.org/softledger-chat-01/</guid>
+          <description xml:base="https://pitbitdevs.org/softledger-chat-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;4:30pm &amp;quot;Discuss Bitcoin business adoption at the Pittsburgh Technology Council offices&amp;quot;&lt;br &#x2F;&gt;
+5:45pm &amp;quot;Social Gathering at Federal Galley (next to PghTech)&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.sdgsystems.com&#x2F;bitcoin&quot;&gt;SDG Systems&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Pittsburgh Technology Council
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;4cKERJ1SA1DpjVc76&quot;&gt; 100 South Commons, Suite 172, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Federal Galley
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;tVHaqV1bdMXkazeLA&quot;&gt;200 Children&#x27;s Way, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking ($7 fee through Todd, cash or Lightning) in the Nova Place Garage. Enter through entrance 4, across from the Post Office. Park near the Plaza Elevators and that will take you up to the PghTech offices. Limited street parking is also available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us as we discuss Bitcoin for Business with special speaker John O&#x27;Connell from SoftLedger. Our discussion will focus primarily on businesses holding Bitcoin on the balance sheet and the opportunities and challenges associated with that. Hope you can make it!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Discuss Liquid BTC and the Aqua and Green Wallets</title>
+          <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/liquid-chat-01/</link>
+          <guid>https://pitbitdevs.org/liquid-chat-01/</guid>
+          <description xml:base="https://pitbitdevs.org/liquid-chat-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;4:30pm &amp;quot;Discuss Liquid BTC at the Pittsburgh Technology Council offices&amp;quot;&lt;br &#x2F;&gt;
+5:45pm &amp;quot;Social Gathering at Federal Galley (next to PghTech)&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.sdgsystems.com&#x2F;bitcoin&quot;&gt;SDG Systems&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zaprite.com&quot;&gt;Zaprite&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Pittsburgh Technology Council
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;4cKERJ1SA1DpjVc76&quot;&gt; 100 South Commons, Suite 172, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Federal Galley
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;tVHaqV1bdMXkazeLA&quot;&gt;200 Children&#x27;s Way, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking ($7 fee through Todd, cash or Lightning) in the Nova Place Garage. Enter through entrance 4, across from the Post Office. Park near the Plaza Elevators and that will take you up to the PghTech offices. Limited street parking is also available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;We will be discussing &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;liquid&#x2F;&quot;&gt;Liquid BTC&lt;&#x2F;a&gt; including the &lt;a href=&quot;https:&#x2F;&#x2F;aquawallet.io&#x2F;&quot;&gt;Aqua&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;green&#x2F;&quot;&gt;Green&lt;&#x2F;a&gt; wallets. Is Bitcoin better with Liquid and Tether? What are the pros and cons? We will also be crowdsourcing some topics for additional conversations around Bitcoin.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Niftynei (Lisa) video chat on the Lightning Network</title>
+          <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/niftynei-chat-01/</link>
+          <guid>https://pitbitdevs.org/niftynei-chat-01/</guid>
+          <description xml:base="https://pitbitdevs.org/niftynei-chat-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;4:30pm &amp;quot;Niftynei Video Chat on Lightning at the Pittsburgh Technology Council offices&amp;quot;&lt;br &#x2F;&gt;
+5:45pm &amp;quot;Social Gathering at Federal Galley (next to PghTech)&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.sdgsystems.com&#x2F;programming-services&quot;&gt;SDG Systems&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;zaprite.com&quot;&gt;Zaprite&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Pittsburgh Technology Council
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;4cKERJ1SA1DpjVc76&quot;&gt; 100 South Commons, Suite 172, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Federal Galley
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;tVHaqV1bdMXkazeLA&quot;&gt;200 Children&#x27;s Way, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking ($7 fee through Todd, cash or Lightning) in the Nova Place Garage. Enter through entrance 4, across from the Post Office. Park near the Plaza Elevators and that will take you up to the PghTech offices. Limited street parking is also available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;Todd Blumer will lead a discussion with @Niftynei (Lisa Neigut) on the current state of the Lightning Network, her founding of &lt;a href=&quot;https:&#x2F;&#x2F;base58.school&quot;&gt;Base58&lt;&#x2F;a&gt; to teach devs about the Bitcoin protocol, and more. Lisa is one of the the premiere educators in the Bitcoin space. Come prepared to listen, learn, and ask questions!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>SeedSigner Demo and Discussion</title>
+          <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/seedsigner-demo-01/</link>
+          <guid>https://pitbitdevs.org/seedsigner-demo-01/</guid>
+          <description xml:base="https://pitbitdevs.org/seedsigner-demo-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;4:30pm &amp;quot;SeedSigner Demo and Discussion at the Pittsburgh Technology Council offices&amp;quot;&lt;br &#x2F;&gt;
+5:45pm &amp;quot;Social Gathering at Federal Galley (next to PghTech)&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;&#x2F;h3&gt;
+&lt;p&gt;SDG Systems&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Pittsburgh Technology Council
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;4cKERJ1SA1DpjVc76&quot;&gt; 100 South Commons, Suite 172, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Federal Galley
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;tVHaqV1bdMXkazeLA&quot;&gt;200 Children&#x27;s Way, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking ($7 fee through Todd, cash or Lightning) in the Nova Place Garage. Enter through entrance 4, across from the Post Office. Park near the Plaza Elevators and that will take you up to the PghTech offices. Limited street parking is also available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;Todd Blumer (and a friend) will provide a demonstration of the use of the air-gapped &lt;a href=&quot;https:&#x2F;&#x2F;seedsigner.com&quot;&gt;SeedSigner&lt;&#x2F;a&gt;, with open source hardware and software. We will use a software wallet to configure a multi-signature wallet and use the SeedSigner to create the keys and sign the transaction. Todd will distribute SeedQR cards for 12-word seed phrases.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bitcoin Mining Discussion Panel</title>
+          <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/mining-panel-01/</link>
+          <guid>https://pitbitdevs.org/mining-panel-01/</guid>
+          <description xml:base="https://pitbitdevs.org/mining-panel-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;4:30pm &amp;quot;Mining Discussion Panel at the Pittsburgh Technology Council offices&amp;quot;&lt;br &#x2F;&gt;
+5:45pm &amp;quot;Social Gathering at Federal Galley (next to PghTech)&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;&#x2F;h3&gt;
+&lt;p&gt;SDG Systems&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Pittsburgh Technology Council
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;4cKERJ1SA1DpjVc76&quot;&gt; 100 South Commons, Suite 172, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Federal Galley
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;tVHaqV1bdMXkazeLA&quot;&gt;200 Children&#x27;s Way, Pittsburgh, PA 15212&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking (fee) in the Nova Place Garage. Enter through entrance 4, across from the Post Office. Park near the Plaza Elevators and that will take you up to the PghTech offices. Limited street parking is also available.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;Mark Stevenson from Chestnut Technologies, and perhaps others, will join Todd Blumer in a discussion regarding Bitcoin Mining. We will discuss the opportunities and challenges of Bitcoin Mining, how software is being used to help miners with payments, curtailment and more.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Pay with Lightning Lunch Discussion</title>
+          <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/lunch-meetup-01/</link>
+          <guid>https://pitbitdevs.org/lunch-meetup-01/</guid>
+          <description xml:base="https://pitbitdevs.org/lunch-meetup-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;12:00pm &amp;quot;Lunch &amp;amp; Discuss Pay with Lightning with the developer team&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;&#x2F;h3&gt;
+&lt;p&gt;SDG Systems&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Loafer&#x27;s Bread Company, Wexford
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;dsp4LNiSoyEPkEUQ6&quot;&gt;10600 Perry Hwy, Wexford, PA 15090&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;Pay with Lightning is an application for Clover Merchants. Developed for Strike by SDG Systems, PwL is now operational at Loafer&#x27;s Bread Co in Wexford, PA. As we have a sandwich, Jay Slater and Todd Blumer will talk about Pay with Lightning and the Strike API. Be sure to have your Lightning-capable wallet with some sats available for payment!
+&lt;a href=&quot;https:&#x2F;&#x2F;photos.app.goo.gl&#x2F;oN4s7VwvrfCKWT6P8&quot;&gt;Demo Video of Pay with Lightning&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Cranberry Township Breafast Meet &amp; Greet - Bartram House</title>
+          <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://pitbitdevs.org/breakfast-meetup-01/</link>
+          <guid>https://pitbitdevs.org/breakfast-meetup-01/</guid>
+          <description xml:base="https://pitbitdevs.org/breakfast-meetup-01/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:30am &amp;quot;Meet &amp;amp; Greet - Bartram House - Mackenzie Drive&amp;quot;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;&#x2F;h3&gt;
+&lt;p&gt;SDG Systems&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;Bartram House Bakery Cafe
+&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;uYbptjaZSw4JPbuC6&quot;&gt;2075 Mackenzie Way, Cranberry Twp, PA 16066&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;parking&quot;&gt;Parking&lt;&#x2F;h3&gt;
+&lt;p&gt;There is on-site parking&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;p&gt;The main purpose for this event is for meeting one another since this is our first meeting. We can also discuss where to start for our technical meetings.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
