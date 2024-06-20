@@ -28,4 +28,4 @@ There is on-site parking ($7 fee through Todd, cash or Lightning) in the Nova Pl
 
 ### Details
 
-Join us as we discuss Bitcoin for Business with special speaker John O'Connell from SoftLedger. Our discussion will focus primarily on businesses holding Bitcoin on the balance sheet and the opportunities and challenges associated with that.
+Join us as we discuss Bitcoin for Business with special speaker John O'Connell from SoftLedger. Our discussion will focus primarily on businesses holding Bitcoin on the balance sheet and the opportunities and challenges associated with that. Hope you can make it!
