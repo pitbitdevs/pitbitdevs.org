@@ -6,7 +6,7 @@ compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+#highlight_code = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -23,5 +23,5 @@ description = "BitDevs Pittsburgh is a technology community in the western PA ar
 github = "https://github.com/pitbitdevs/pitbitdevs.org"
 meetup = "https://www.meetup.com/pitbitdevs"
 twitter = "https://www.twitter.com/pitbitdevs"
-videos = "https://www.youtube.com"
-podcasts = "https://www.podcasts.com"
+#videos = "https://www.youtube.com"
+#podcasts = "https://www.podcasts.com"
